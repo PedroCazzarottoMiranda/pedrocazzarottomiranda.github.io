@@ -3,13 +3,17 @@
 
 @import "{{ site.theme }}";
 
-
-.page-header {
-  padding: 4rem 1rem;
+body {
+  background-color: #f4f6f8;
 }
 
 .main-content {
   max-width: 900px;
+  background-color: white;
+  padding: 3rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 12px;
 }
 
 .main-content h1 {
@@ -17,9 +21,17 @@
 }
 
 .main-content h2 {
-  margin-top: 2rem;
+  color: #159957;
+  margin-top: 2.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #e0e0e0;
 }
 
 .main-content h3 {
+  color: #2c3e50;
   margin-top: 1.5rem;
+}
+
+.main-content ul {
+  line-height: 1.8;
 }
