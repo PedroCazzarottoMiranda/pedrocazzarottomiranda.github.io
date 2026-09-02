@@ -4,7 +4,7 @@
 
 Olá! Meu nome é Pedro Cazzarotto Miranda e este é o meu site pessoal!
 
-Sou estudante e tenho interesse na área de Iformática.
+Sou estudante e tenho interesse na área de Informática.
 
 ## Meus interesses
 
