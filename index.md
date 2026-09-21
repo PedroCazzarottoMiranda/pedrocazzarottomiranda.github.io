@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pedro Cazzarotto Miranda
+---
+
 # Pedro Cazzarotto Miranda
 
 ## Sobre mim
