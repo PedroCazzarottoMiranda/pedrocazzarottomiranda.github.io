@@ -129,3 +129,16 @@ li {
   transform: translateY(-5px);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
 }
+
+.site-footer {
+  background: #159957;
+  color: white;
+  text-align: center;
+  padding: 25px 20px;
+  margin-top: 40px;
+}
+
+.site-footer p {
+  margin: 5px 0;
+  line-height: 1.5;
+}
