@@ -75,3 +75,9 @@ Atualmente, estou aprendendo e desenvolvendo conhecimentos em:
   </div>
 
 </div>
+
+## Contato
+
+<section id="contato">
+  <p>Você pode entrar em contato comigo pelo GitHub.</p>
+</section>
