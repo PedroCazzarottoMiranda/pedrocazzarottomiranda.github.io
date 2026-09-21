@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  background: #f4f6f8;
+  font-family: Arial, sans-serif;
+  color: #444;
+}
+
+main {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 40px;
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+}
+
+h1 {
+  color: #159957;
+  font-size: 40px;
+}
+
+h2 {
+  color: #159957;
+  margin-top: 40px;
+  border-bottom: 2px solid #e5e5e5;
+  padding-bottom: 8px;
+}
+
+h3 {
+  color: #333;
+  margin-top: 25px;
+}
+
+p {
+  line-height: 1.7;
+}
+
+li {
+  margin-bottom: 8px;
+}
