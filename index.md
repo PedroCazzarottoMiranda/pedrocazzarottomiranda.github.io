@@ -50,13 +50,6 @@ Atualmente, estou aprendendo e desenvolvendo conhecimentos em:
 
 </div>
 
-### Sistema de Biblioteca
-
-Projeto desenvolvido utilizando Python para auxiliar no gerenciamento de livros, usuários e empréstimos.
-
-### Desenvolvimento Web
-
-Projetos de sites desenvolvidos durante meus estudos utilizando HTML e CSS.
 
 ## Meus interesses
 
