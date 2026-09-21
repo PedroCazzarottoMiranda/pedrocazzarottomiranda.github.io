@@ -5,7 +5,6 @@ title: Pedro Cazzarotto Miranda
 
 # Pedro Cazzarotto Miranda
 
-## Sobre mim
 <h2 id="sobre">Sobre mim</h2>
 
 Olá, eu sou Pedro.
