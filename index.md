@@ -7,6 +7,10 @@ title: Pedro Cazzarotto Miranda
 
 ## Sobre mim
 
+<h2 id="sobre">Sobre mim</h2>
+<a href="#sobre">Sobre mim</a>
+<a href="{{ '/' | relative_url }}">Início</a>
+
 Olá, eu sou Pedro.
 
 Estudante de Informática para Internet no IFC — Campus Concórdia.
