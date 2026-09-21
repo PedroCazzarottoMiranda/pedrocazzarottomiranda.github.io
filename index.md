@@ -51,17 +51,27 @@ Atualmente, estou aprendendo e desenvolvendo conhecimentos em:
 </div>
 
 
-## Meus interesses
 
-### Tecnologia
+<div class="interests">
 
-- Programação
-- Desenvolvimento Web
-- Tecnologia
+  <div class="interest-card">
+    <h3>💻 Tecnologia</h3>
+    <p>Programação, desenvolvimento web e novas tecnologias.</p>
+  </div>
 
-### Hobbies
+  <div class="interest-card">
+    <h3>⚽ Esportes</h3>
+    <p>Futebol e outros esportes fazem parte dos meus interesses.</p>
+  </div>
 
-- Futebol
-- Esportes
-- Academia
-- Jogos
+  <div class="interest-card">
+    <h3>🎮 Jogos</h3>
+    <p>Gosto de jogos e do mundo dos games.</p>
+  </div>
+
+  <div class="interest-card">
+    <h3>🏋️ Academia</h3>
+    <p>Também gosto de praticar exercícios e cuidar da minha rotina.</p>
+  </div>
+
+</div>
