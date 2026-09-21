@@ -7,9 +7,10 @@ title: Pedro Cazzarotto Miranda
 
 ## Sobre mim
 
-Olá! Meu nome é Pedro Cazzarotto Miranda e este é o meu site pessoal.
+Olá, eu sou Pedro.
 
-Sou estudante de Informática para Internet no Instituto Federal Catarinense — Campus Concórdia. Tenho interesse na área de tecnologia, principalmente em programação e desenvolvimento web.
+Estudante de Informática para Internet no IFC — Campus Concórdia.
+Interessado em programação, desenvolvimento web e tecnologia.
 
 ## Formação
 
