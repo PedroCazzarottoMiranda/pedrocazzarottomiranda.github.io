@@ -27,8 +27,28 @@ Atualmente, estou aprendendo e desenvolvendo conhecimentos em:
 - CSS
 - JavaScript
 - GitHub
-
+  
 ## Projetos
+
+<div class="projects">
+
+  <div class="project-card">
+    <h3>Sistema de Biblioteca</h3>
+    <p>
+      Projeto desenvolvido em Python para auxiliar no gerenciamento
+      de livros, usuários e empréstimos.
+    </p>
+  </div>
+
+  <div class="project-card">
+    <h3>Desenvolvimento Web</h3>
+    <p>
+      Projetos de sites desenvolvidos durante meus estudos
+      utilizando HTML e CSS.
+    </p>
+  </div>
+
+</div>
 
 ### Sistema de Biblioteca
 
